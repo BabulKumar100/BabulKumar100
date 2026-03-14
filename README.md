@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Babul Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left">
-  <img src="profile.png" alt="BabulKumar100" />
+<p align="center">
+  <img src="profile.png" alt="BabulKumar100" width="300" height="300" />
 </p>
 
 - 🔭 I’m currently working on [ResQMap](https://github.com/pawan00207/ResQMap)
