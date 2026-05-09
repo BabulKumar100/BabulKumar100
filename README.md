@@ -23,7 +23,7 @@
   **babulkumarmth62@gmail.com**
 
 - 📄 Check out my resume:  
-  [Resume Repository](https://github.com/BabulKumar100/Resume.git)
+  [View My Resume](https://github.com/BabulKumar100/Resume.git)
 
 - ⚡ Fun Fact:  
   **I enjoy exploring new technologies and building real-world projects to continuously improve my development skills.**
